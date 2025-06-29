@@ -1,1 +1,1 @@
-" whass up assholes "
+" I have alrady accomplished github basics certificate "
